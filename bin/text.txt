@@ -1,0 +1,1 @@
+Труебтся chmod +x для macOS, Linux
